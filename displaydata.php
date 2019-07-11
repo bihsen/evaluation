@@ -1,4 +1,10 @@
+<h1>Our best Offers</h1>
+
 <style>
+    h1{
+        text-align: center;
+    }
+
 
 img{
     height: 400px;
